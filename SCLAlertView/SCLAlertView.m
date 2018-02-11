@@ -772,7 +772,7 @@ SCLTimerDisplay *buttonTimer;
     
     if([self isVisible])
     {
-        [self hideView];
+        // [self hideView];
     }
 }
 
